@@ -1,0 +1,262 @@
+/* Consumer behavior and education: shared additions to the existing visual system. */
+.consumer-hero {
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.8fr);
+  gap: 70px;
+}
+.consumer-hero h1 {
+  font-size: clamp(3.4rem, 5.2vw, 5.1rem);
+  white-space: normal;
+  line-height: 1.04;
+  letter-spacing: -0.035em;
+  max-width: 700px;
+}
+.consumer-hero h1 em {
+  color: #456d39;
+  font-weight: 400;
+}
+.hero-name {
+  font-size: 1rem;
+  margin-bottom: 15px;
+  color: var(--muted);
+}
+.profile-scene img {
+  width: 100%;
+  height: 510px;
+  object-fit: cover;
+  object-position: center 28%;
+  border-radius: 90px 4px 4px 4px;
+}
+.profile-scene figcaption {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 6px 16px;
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin-top: 12px;
+}
+@media (max-width: 900px) {
+  .consumer-hero {
+    gap: 32px;
+  }
+  .profile-scene img {
+    height: 430px;
+  }
+}
+@media (max-width: 650px) {
+  .consumer-hero {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .consumer-hero h1 {
+    font-size: clamp(3rem, 11vw, 4rem);
+  }
+  .profile-scene img {
+    height: 340px;
+    object-position: center 25%;
+  }
+}
+.research-themes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+.research-themes article {
+  position: relative;
+  display: block;
+  padding: 28px 30px;
+}
+.research-themes h3 {
+  max-width: 460px;
+  font-size: 2rem;
+}
+.research-themes .theme-label {
+  color: var(--fern);
+  margin-bottom: 18px;
+}
+.research-themes .theme-question {
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+  margin-top: 18px;
+  font-size: 0.875rem;
+  color: var(--forest);
+}
+.anchor-alias {
+  position: absolute;
+  top: 0;
+}
+.education-feature {
+  background: #e9edf0;
+  border-bottom: 1px solid #cbd2d7;
+}
+.education-feature-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.05fr;
+  gap: 70px;
+  align-items: center;
+}
+.education-feature h2 {
+  max-width: 430px;
+}
+.education-feature p:not(.eyebrow) {
+  margin-block: 24px;
+  max-width: 480px;
+  color: #42535e;
+}
+.education-feature .eyebrow,
+.page-education .eyebrow {
+  color: #415b70;
+}
+.learning-visual img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px 40px 4px 4px;
+}
+.learning-visual figcaption {
+  color: #485866;
+  font-size: 0.75rem;
+  margin-top: 10px;
+  line-height: 1.6;
+}
+.education-overview-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: start;
+}
+.education-overview h2 {
+  max-width: 450px;
+}
+.education-lead {
+  margin-block: 24px 32px;
+  max-width: 480px;
+  color: var(--muted);
+}
+.education-process li {
+  grid-template-columns: 44px 1fr;
+  gap: 22px;
+  padding-block: 23px;
+}
+.education-process li:before {
+  color: #415b70;
+}
+.education-process h3 {
+  font-size: 1.9rem;
+  margin-bottom: 8px;
+}
+.education-examples {
+  background: #edf0f1;
+  border-block: 1px solid #d3dadd;
+}
+.education-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+.education-cards article {
+  background: var(--paper);
+  padding: 30px;
+  border-top: 2px solid #647f90;
+}
+.education-cards .eyebrow {
+  font-size: 0.72rem;
+}
+.education-cards h3 {
+  font-family: var(--serif);
+  font-size: 2rem;
+  line-height: 1.14;
+}
+.education-cards article > p:not(.eyebrow) {
+  margin-top: 20px;
+  color: var(--muted);
+}
+.education-cards .text-link {
+  margin-top: 24px;
+}
+.education-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+.education-summary > p {
+  max-width: 650px;
+  color: var(--muted);
+}
+.education-summary .button {
+  flex-shrink: 0;
+}
+.header-inner nav {
+  flex-wrap: wrap;
+}
+@media (max-width: 1000px) {
+  .education-feature-grid,
+  .education-overview-grid {
+    gap: 36px;
+  }
+  .education-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .education-summary {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+  }
+}
+@media (max-width: 800px) {
+  .education-feature-grid,
+  .education-overview-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+  .education-feature h2,
+  .education-overview h2,
+  .education-feature p:not(.eyebrow),
+  .education-lead {
+    max-width: 650px;
+  }
+  .research-themes h3 {
+    font-size: 1.9rem;
+  }
+  .research-themes article > p:last-child {
+    margin-top: 16px;
+  }
+}
+@media (max-width: 580px) {
+  .research-themes,
+  .education-cards {
+    grid-template-columns: 1fr;
+  }
+  .research-themes article,
+  .education-cards article {
+    padding: 25px;
+  }
+  .education-process li {
+    grid-template-columns: 34px 1fr;
+    gap: 15px;
+  }
+  .header-inner nav {
+    gap: 8px 19px;
+  }
+  .header-inner nav a {
+    min-height: 40px;
+  }
+}
+@media print {
+  .consumer-hero {
+    grid-template-columns: 1fr 180px;
+  }
+  .consumer-hero h1 {
+    font-size: 32pt;
+  }
+  .profile-scene img {
+    height: 240px;
+  }
+  .education-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+  .education-cards article,
+  .education-process li {
+    break-inside: avoid;
+  }
+}
