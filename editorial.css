@@ -1,8 +1,9 @@
 /* Shared identity and light editorial graphics for the publication catalog. */
 .site-header {
-  background: #f7f7ef;
-  border-top: 4px solid #234b3c;
-  border-bottom: 1px solid #c7d0be;
+  background: #173e2e;
+  color: #fffef8;
+  border-top: 4px solid #b5c887;
+  border-bottom: 1px solid #315541;
 }
 .header-inner { min-height: 108px; gap: 28px; }
 .header-brand { display: flex; align-items: center; gap: 15px; flex-shrink: 0; }
@@ -11,7 +12,7 @@
   place-items: center;
   width: 52px;
   height: 58px;
-  border: 1px solid #819077;
+  border: 1px solid #c7d6b0;
   border-radius: 28px 28px 5px 5px;
   background: #e8eddf;
   color: #234b3c;
@@ -19,12 +20,13 @@
   font-size: 1.55rem;
   letter-spacing: -0.1em;
   padding-right: 4px;
-  box-shadow: inset 0 0 0 4px var(--paper);
+  box-shadow: inset 0 0 0 4px #173e2e;
 }
-.header-brand .wordmark { font-size: 2rem; }
-.brand-description { margin-top: 5px; font-size: 0.75rem; letter-spacing: 0.025em; color: #566357; }
+.header-brand .wordmark { font-size: 2rem; color: #fffef8; }
+.brand-description { margin-top: 5px; font-size: 0.75rem; letter-spacing: 0.025em; color: #d1ddc7; }
 .header-inner nav { align-items: center; gap: 6px; }
 .header-inner nav a {
+  color: #f3f5eb;
   border: 0;
   padding: 10px 12px;
   border-radius: 3px;
@@ -33,15 +35,16 @@
 }
 .header-inner nav a:hover,
 .header-inner nav a[aria-current="page"] {
-  background: #e7edde;
-  color: #173e2e;
+  background: #315541;
+  color: #fffef8;
   text-decoration: none;
-  box-shadow: inset 0 -2px #748d61;
+  box-shadow: inset 0 -2px #b5c887;
   border: 0;
 }
-.header-inner nav a[href="contact.html"] { margin-left: 9px; background: #234b3c; color: #fffef8; padding-inline: 19px; }
-.header-inner nav a[href="contact.html"]:hover { background: #35614e; }
-.header-inner nav a[href="contact.html"][aria-current="page"] { box-shadow: inset 0 -3px #c9d9b0; }
+.header-inner nav a[href="contact.html"] { margin-left: 9px; background: #edf1e4; color: #173e2e; padding-inline: 19px; }
+.header-inner nav a[href="contact.html"]:hover { background: #d8e3c5; color: #173e2e; }
+.header-inner nav a[href="contact.html"][aria-current="page"] { box-shadow: inset 0 -3px #78935a; }
+.site-header a:focus-visible { outline-color: #f0dca1; }
 .page-publications .publications-section { padding-top: 44px; }
 .publication-heading {
   display: grid;
@@ -131,7 +134,8 @@
   .header-inner nav a, .publication-formats > a { transition: none; }
 }
 @media print {
-  .site-header { border-top: 0; }
+  .site-header { border-top: 0; background: white; color: #173e2e; }
+  .header-brand .wordmark, .brand-description { color: #173e2e; }
   .publication-art, .publication-formats { display: none; }
   .publication-heading { display: block; border: 0; padding: 0; background: transparent; }
   .publication-year-group > h2 { background: transparent; }
