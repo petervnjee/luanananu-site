@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300" fill="none">
+  <circle cx="241" cy="152" r="126" fill="#E8EDE3"/>
+  <g stroke="#AEBFAC" stroke-width="1">
+    <circle cx="241" cy="152" r="104"/>
+    <circle cx="241" cy="152" r="73" stroke-dasharray="2 7"/>
+    <path d="M58 152H423M241 20V284" stroke-dasharray="3 8"/>
+    <path d="M147 87L322 212M152 214L315 81"/>
+  </g>
+  <path d="M143 116A104 104 0 0 1 294 63" stroke="#244E40" stroke-width="3"/>
+  <path d="M340 184A104 104 0 0 1 202 249" stroke="#A57754" stroke-width="3"/>
+  <circle cx="241" cy="152" r="41" fill="#234B3C"/>
+  <circle cx="241" cy="152" r="27" stroke="#CED9B8"/>
+  <path d="M228 152H254M241 139V165" stroke="#CED9B8" stroke-width="1.5"/>
+  <circle cx="147" cy="87" r="22" fill="#D5E1EC" stroke="#668097"/>
+  <circle cx="315" cy="81" r="16" fill="#DCE5C9" stroke="#789067"/>
+  <circle cx="322" cy="212" r="28" fill="#EBDACA" stroke="#A57754"/>
+  <circle cx="152" cy="214" r="12" fill="#F7F7EF" stroke="#668097"/>
+  <g fill="#234B3C">
+    <circle cx="241" cy="48" r="4"/><circle cx="345" cy="152" r="4"/>
+    <circle cx="241" cy="256" r="4"/><circle cx="137" cy="152" r="4"/>
+  </g>
+  <g stroke="#789067"><path d="M70 78h18M79 69v18M382 230h18M391 221v18"/><circle cx="390" cy="66" r="6"/><circle cx="76" cy="238" r="4"/></g>
+</svg>

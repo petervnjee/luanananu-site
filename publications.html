@@ -36,14 +36,19 @@
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="biophilic.css" />
     <link rel="stylesheet" href="education.css" />
+    <link rel="stylesheet" href="editorial.css" />
   </head>
   <body class="page-publications">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
       <div class="container header-inner">
-        <a class="wordmark" href="index.html" aria-label="Luana Nanu, home"
-          >Luana Nanu<span>Ph.D.</span></a
-        >
+        <div class="header-brand">
+          <span class="brand-emblem" aria-hidden="true">LN</span>
+          <div>
+            <a class="wordmark" href="index.html" aria-label="Luana Nanu, home">Luana Nanu<span>Ph.D.</span></a>
+            <p class="brand-description">Consumer behavior · Research &amp; education</p>
+          </div>
+        </div>
         <nav aria-label="Main navigation">
           <a href="research.html">Research</a
           ><a href="publications.html" aria-current="page">Publications</a
@@ -59,12 +64,16 @@
         id="publications"
         aria-labelledby="publications-title"
       >
-        <div class="section-heading publication-heading">
-          <div>
+        <div class="publication-heading">
+          <div class="publication-heading-copy">
             <p class="eyebrow">Publications · 2018–2026</p>
             <h1 id="publications-title">Publications.</h1>
-          </div>
-          <div
+            <p class="publication-intro">
+          Journal articles and reviews are grouped by first publication year.
+          DOI links lead to the publisher record; books, chapters, teaching
+          cases, reports, and public scholarship follow the journal list.
+        </p>
+            <div
             class="publication-links"
             aria-label="External research profiles"
           >
@@ -83,12 +92,23 @@
               >ORCID <span aria-hidden="true">↗</span></a
             >
           </div>
+          </div>
+          <img class="publication-art" src="assets/publications-illustration.svg" width="460" height="300" alt="" aria-hidden="true" />
         </div>
-        <p class="publication-intro">
-          Journal articles and reviews are grouped by first publication year.
-          DOI links lead to the publisher record; books, chapters, teaching
-          cases, reports, and public scholarship follow the journal list.
-        </p>
+        <nav class="publication-formats" aria-label="Publication formats">
+          <a class="format-journals" href="#pub-year-2026">
+            <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="10" y="6" width="28" height="36" rx="3"></rect><path d="M17 15h14M17 22h14M17 29h9M17 35h12"></path></svg>
+            <span><strong>31</strong><span>Journal articles &amp; reviews</span></span>
+          </a>
+          <a class="format-books" href="#books-cases-title">
+            <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><path d="M24 12c-6-5-13-5-19-3v29c7-2 13-2 19 3 6-5 12-5 19-3V9c-6-2-13-2-19 3v29M11 17c3-1 6 0 8 1M29 18c2-1 5-2 8-1M11 24c3-1 6 0 8 1M29 25c2-1 5-2 8-1"></path></svg>
+            <span><strong>7</strong><span>Books, chapters &amp; teaching materials</span></span>
+          </a>
+          <a class="format-reports" href="#reports-title">
+            <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><path d="M8 10h32v24H23l-9 7v-7H8zM15 18h18M15 25h12"></path></svg>
+            <span><strong>2</strong><span>Reports &amp; public scholarship</span></span>
+          </a>
+        </nav>
 
         <nav class="catalog-nav" aria-label="Publication years">
           <a href="#pub-year-2026">2026</a><a href="#pub-year-2025">2025</a
