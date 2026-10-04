@@ -1,5 +1,5 @@
 {
-  "source_commit": "3fb6557c9324b02f9614571f4121f24439cc9036",
+  "source_commit": "8fe21fee076b02593addff6e7d9247c4d038b8a2",
   "files": {
     "app/.htaccess": "fa28d421a28ed9b6f4b997d5119c2b8adbacff6e2dd119a179b71230f9664934",
     "app/Controllers/PageController.php": "467cb3fc421143a59c3da86e6a4877035a4e823d7be2bf886ef2fbd5f4229375",
@@ -15,10 +15,10 @@
     "app/Views/pages/index.php": "5e0e1208d2fd2ef6c4ca319a1a686519e6771611932cf926630765f23ae6d8ad",
     "app/Views/pages/publications.php": "a3f30957811557b64a032189f2f733f76d30fe343a0ca08d1f0cc6b9f3799a4a",
     "app/Views/pages/research.php": "df20dfa3a24983876568f252bc90728017d85c4d8ef689df964107ae5366f1bf",
-    "app/Views/partials/footer.php": "0bdf486acb3cf0a9e8f133156027f9b593a4a5c42e5674e42d228275d2de512b",
-    "app/Views/partials/header.php": "18b38f73d3d215bd58f10e1b5b82d0c2c51087df64eceb2742eb34ba3385b71c",
+    "app/Views/partials/footer.php": "f2ffe97fb66bdc8550e36dfc6233eec4952e059362fe275825dbb953dad54a90",
+    "app/Views/partials/header.php": "883abe6596f1fad785a8162e57024c7385b07c37dd78ffc88d57ab44d7e8bab3",
     "app/bootstrap.php": "837289ecdb61f4e4643c019d83dc6bd180e386ae00f42b9d4604138edc80524f",
-    "app/data/assets.php": "ff6d27fbcc389329255ee636a3ea4d9ba979bce1a612dec259a20c67c5290089",
+    "app/data/assets.php": "47cec015a91dc489295720e5d6c0156e73aa14f49af48258601129e83a15c864",
     "app/data/pages.json": "82362ba25241f2ff94e8e6f4137d6888bb25a7570b91a5298a72f3026bcb0960",
     "app/data/person.json": "954fcbf776d33a4b7d4799cfea3305dac05b996a4379cdb8fe659c15d6df69c0",
     "public/.htaccess": "73f610edf747bb8aecdcdc9868d29bd272b07c1c4e7a7c3ade50b5c3b9cb96a7",
@@ -46,7 +46,7 @@
     "public/assets/research-workforce-480.587382a2ddb3.webp": "587382a2ddb37d5bfce9f8379fa9af27015067f33d2ad692df8248e4b07e8e6e",
     "public/assets/research-workforce-800.85f67b5d8980.webp": "85f67b5d8980894051500f07576f2b679e3f53bcce96d654374bd85248228f87",
     "public/assets/research-workforce.f4ceed443dff.webp": "f4ceed443dff924942df5b25c744687a36b7c58752a4e5e7d459da951f6707ae",
-    "public/assets/site.418750a9e51a.css": "418750a9e51ad671b0147b130aa475462bdc0ea2725392dce6b804c5c68a6caf",
+    "public/assets/site.ba57f7bfe8f2.css": "ba57f7bfe8f2d105b08d56a16507ce5d4c5e221f5ced8cba6134a0320f402771",
     "public/index.php": "c4fb12a688cff1222503b2d714756ea8ff1e0e86a079d083676a39db32a626c8"
   }
 }
