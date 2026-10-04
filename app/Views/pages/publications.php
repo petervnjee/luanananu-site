@@ -1,0 +1,882 @@
+
+      <section
+        class="container section publications-section"
+        id="publications"
+        aria-labelledby="publications-title"
+      >
+        <div class="publication-heading">
+          <div class="publication-heading-copy">
+            <p class="eyebrow">Publications · 2018–2026</p>
+            <h1 id="publications-title">Publications.</h1>
+            <p class="publication-intro">
+          Journal articles and reviews are grouped by first publication year.
+          DOI links lead to the publisher record; books, chapters, teaching
+          cases, reports, and public scholarship follow the journal list.
+        </p>
+            <div
+            class="publication-links"
+            aria-label="External research profiles"
+          >
+            <a
+              class="text-link"
+              href="https://scholar.google.com/citations?user=Jz0kZsIAAAAJ&amp;hl=en"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Google Scholar <span aria-hidden="true">↗</span></a
+            >
+            <a
+              class="text-link"
+              href="https://orcid.org/0000-0002-6157-330X"
+              target="_blank"
+              rel="noopener noreferrer"
+              >ORCID <span aria-hidden="true">↗</span></a
+            >
+          </div>
+          </div>
+          <img class="publication-art" src="<?= asset('assets/publications-illustration.svg') ?>" width="460" height="300" alt="" aria-hidden="true" />
+        </div>
+        <nav class="publication-formats" aria-label="Publication formats">
+          <a class="format-journals" href="#pub-year-2026">
+            <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="10" y="6" width="28" height="36" rx="3"></rect><path d="M17 15h14M17 22h14M17 29h9M17 35h12"></path></svg>
+            <span><strong>31</strong><span>Journal articles &amp; reviews</span></span>
+          </a>
+          <a class="format-books" href="#books-cases-title">
+            <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><path d="M24 12c-6-5-13-5-19-3v29c7-2 13-2 19 3 6-5 12-5 19-3V9c-6-2-13-2-19 3v29M11 17c3-1 6 0 8 1M29 18c2-1 5-2 8-1M11 24c3-1 6 0 8 1M29 25c2-1 5-2 8-1"></path></svg>
+            <span><strong>7</strong><span>Books, chapters &amp; teaching materials</span></span>
+          </a>
+          <a class="format-reports" href="#reports-title">
+            <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><path d="M8 10h32v24H23l-9 7v-7H8zM15 18h18M15 25h12"></path></svg>
+            <span><strong>2</strong><span>Reports &amp; public scholarship</span></span>
+          </a>
+        </nav>
+
+        <nav class="catalog-nav" aria-label="Publication years">
+          <a href="#pub-year-2026">2026</a><a href="#pub-year-2025">2025</a
+          ><a href="#pub-year-2024">2024</a><a href="#pub-year-2023">2023</a
+          ><a href="#pub-year-2022">2022</a><a href="#pub-year-2021">2021</a
+          ><a href="#pub-year-2020">2020</a
+          ><a href="#books-cases-title">Books &amp; cases</a
+          ><a href="#reports-title">Reports</a>
+        </nav>
+        <div class="publication-catalog">
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2026"
+          >
+            <h2 id="pub-year-2026">2026</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  Corporate Social Responsibility and Environmental Management
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1002/csr.70817"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Assessing ESG Agency Ratings in Hospitality: A Triangulated
+                    Perspective<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Shaniel Bernard; <strong>Luana Nanu</strong>; Willy Legrand;
+                  Aneliya Antova
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Contemporary Hospitality Management ·
+                  38(6), 1927–1952
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/IJCHM-05-2025-0786"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Examining the impact of greenwashing and greenhushing on
+                    consumer trust and behavior in the restaurant industry<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Muhittin Cavusoglu; <strong>Luana Nanu</strong>; Trishna G.
+                  Mistry; Üzeyir Kement; Faizan Ali
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality and Tourism Insights · 1–21
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/JHTI-10-2025-1223"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Unlocking loyalty: How digital ease of use shapes memorable
+                    experiences and satisfaction for older adults in
+                    hospitality<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Zvijezdana Petkovic; <strong>Luana Nanu</strong>; Trishna G.
+                  Mistry
+                </p>
+                <a
+                  class="secondary-link"
+                  href="https://www.usf.edu/news/2026/qr-code-hospitality-experience-for-older-adults.aspx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >USF research story <span aria-hidden="true">↗</span></a
+                >
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Hospitality Management · 137, 104696
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.ijhm.2026.104696"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Enhancing human-robot interaction in restaurants: The
+                    impact of anthropomorphic features on perceived
+                    attractiveness<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Abraham Terrah; <strong>Luana Nanu</strong>; Cortney L. Norris
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality and Tourism Insights · 1–19
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/JHTI-05-2025-0606"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >From solo trips to group travel: how fear and perceived
+                    threats shaped travel intentions<span aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Sijun Liu; Imran Rahman; <strong>Luana Nanu</strong>; Shaniel
+                  Bernard
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality and Tourism Technology · 1–21
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/JHTT-08-2025-0669"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Investigating customer service and engagement levels in the
+                    lodging industry: high-touch to high-tech conversational
+                    AI<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Ajay Aluri; <strong>Luana Nanu</strong>; Amelia Szczesny
+                </p>
+                <a
+                  class="secondary-link"
+                  href="https://www.usf.edu/business/news/2026/02-09-usf-studys-ai-concierges-adoption-finds-guests-crave-human-connection.aspx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >USF research story <span aria-hidden="true">↗</span></a
+                >
+              </li>
+            </ol>
+          </section>
+
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2025"
+          >
+            <h2 id="pub-year-2025">2025</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  Journal of Culinary Science &amp; Technology · 1–28
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1080/15428052.2025.2599862"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >From Buffets to Takeout: Student Perspectives on Public
+                    Health Crisis-Induced University Dining Transformations<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Imran Rahman; Mark Traynor; <strong>Luana Nanu</strong>;
+                  Hayley Tillery
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Quality Assurance in Hospitality &amp; Tourism ·
+                  1–15
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1080/1528008X.2025.2601706"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Optimizing Hotel Profitability: How Cost System
+                    Sophistication Drives Financial Performance in the Hotel
+                    Industry<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Emre Cengiz; Emel Kaynakci; <strong>Luana Nanu</strong>;
+                  Muhittin Çavuşoğlu
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Contemporary Hospitality Management ·
+                  37(9), 3042–3060
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/IJCHM-02-2025-0216"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Redefining the servicescape in hospitality through
+                    technology and artificial intelligence: a conceptual
+                    framework<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors"><strong>Luana Nanu</strong></p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Contemporary Hospitality Management ·
+                  37(7), 2389–2407
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/IJCHM-09-2024-1432"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Retaining millennial talent: the role of servant leadership
+                    and creativity<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Trishna G. Mistry; <strong>Luana Nanu</strong>; Laur-Ann Daley
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Contemporary Hospitality Management ·
+                  37(6), 2094–2113
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/IJCHM-06-2024-0924"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Hotel App Quality (HAPQUAL): conceptualization and scale
+                    development<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Faizan Ali; <strong>Luana Nanu</strong>; Muhittin Çavuşoğlu;
+                  Fabiana Sepe; Salman Alotaibi
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Marketing Theory and Practice · 34(3), 559–576
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1080/10696679.2025.2472366"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Understanding consumer frustration: analyzing airline
+                    revenge, boycott, and avoidance behaviors through PLS-SEM
+                    and ANN methods<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Faizan Ali; Katerina Annaraud; <strong>Luana Nanu</strong>;
+                  Ghazanfar Ali Abbasi; Salman Alotaibi
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Hospitality Management · 126, 104100
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.ijhm.2025.104100"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Transforming spaces, shaping choices: The impact of room
+                    aesthetics on guest booking preferences<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Veena Chattaraman; Imran Rahman
+                </p>
+              </li>
+            </ol>
+          </section>
+
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2024"
+          >
+            <h2 id="pub-year-2024">2024</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  Corporate Social Responsibility and Environmental Management ·
+                  32(2), 1767–1778
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1002/csr.3041"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Exploring food delivery app adoption: Corporate social
+                    responsibility and perceived product risk’s influence<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Anna Prisco; Fabiana Sepe; <strong>Luana Nanu</strong>; Mario
+                  Tani
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality and Tourism Technology · 16(3), 429–449
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/JHTT-03-2024-0193"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Perceptions and challenges of blockchain adoption in
+                    tourism industry: a study on trust, privacy and
+                    security<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Manuel Pedro Rodríguez Bolívar; Fabiana Sepe;
+                  <strong>Luana Nanu</strong>; Fabiana Roberto
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Spanish Journal of Marketing—ESIC · 29(1), 114–135
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/SJME-08-2023-0219"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Social media marketing and brand loyalty: exploring
+                    interrelationships through symmetrical and asymmetrical
+                    modeling<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Faizan Ali; Chokechai Suveatwatanakul;
+                  <strong>Luana Nanu</strong>; Murad Ali; Abraham Terrah
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Worldwide Hospitality and Tourism Themes · 16(2), 248–251
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/WHATT-03-2024-0075"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Revolutionizing getaways: automation and artificial
+                    intelligence’s transformative journey in tourism and
+                    hospitality<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Seden Doğan; Trishna G. Mistry; <strong>Luana Nanu</strong>
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Young Consumers · 25(6), 748–770
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1108/YC-02-2024-1979"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Something to chew on: assessing what students want from
+                    campus dining services<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Imran Rahman; Mark Traynor; Lisa
+                  Cain
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Hospitality Management · 119, 103692
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.ijhm.2024.103692"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Enhancing the hospitality experience: A systematic review
+                    of 22 years of physical environment research<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Imran Rahman; Faizan Ali; David
+                  S. Martin
+                </p>
+              </li>
+            </ol>
+          </section>
+
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2023"
+          >
+            <h2 id="pub-year-2023">2023</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  Journal of Cleaner Production · 416, 137948
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.jclepro.2023.137948"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >The adoption of environmental practices in craft breweries:
+                    The role of owner-managers’ consumption values, motivation,
+                    and perceived business challenges<span aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Imran Rahman; <strong>Luana Nanu</strong>; Erol Sözen
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Cornell Hospitality Quarterly · 64(4), 436–453
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1177/19389655231182091"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Translating Transformational Leadership and Organizational
+                    Innovativeness Into Creative Customer Behavior: Underlying
+                    Processes and Boundary Conditions<span aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Taeshik Gong; <strong>Luana Nanu</strong>; Linh Ha Le; Faizan
+                  Ali
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Hospitality Management · 113, 103520
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.ijhm.2023.103520"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >The biophilic hotel lobby: Consumer emotions, peace of
+                    mind, willingness to pay, and health-consciousness<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Imran Rahman
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality &amp; Tourism Education · 37(1), 1–14
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1080/10963758.2023.2200000"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >An Assessment of American Hospitality Programs Based on
+                    RateMyProfessor: A Big Data Approach<span aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Hayley Tillery; Imran Rahman
+                </p>
+              </li>
+            </ol>
+          </section>
+
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2022"
+          >
+            <h2 id="pub-year-2022">2022</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  International Journal of Hospitality &amp; Tourism
+                  Administration · 25(3), 638–664
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1080/15256480.2022.2142995"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Does Perceived Control Matter in the Early Days of COVID-19
+                    in USA? A Protection Motivation Approach Examining
+                    Hospitality and Tourism Service Patronage<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Imran Rahman; <strong>Luana Nanu</strong>; Shaniel Bernard;
+                  Sijun Liu
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Global Hospitality and Tourism · 1(2), 110–127
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.5038/2771-5957.1.2.1009"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >COVID-19 and hospitality services: The role of information
+                    sources, believability, fear, and behavioral intentions<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Shaniel Bernard; Imran Rahman; Sijun Liu;
+                  <strong>Luana Nanu</strong>
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality and Tourism Management · 52, 264–274
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.jhtm.2022.07.008"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >The effect of biophilic design on customer’s subjective
+                    well-being in the hotel lobbies<span aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Chengli Song; Faizan Ali; Cihan Çobanoğlu;
+                  <strong>Luana Nanu</strong>; Seung Hyun Lee
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Advances in Hospitality and Tourism Research · 10(4), 646–670
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.30519/ahtr.986781"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >A Meta-Analysis of the Antecedents and Consequences of
+                    Delight in Tourism and Hospitality Research<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Abraham Terrah; Sijun Liu; <strong>Luana Nanu</strong>
+                </p>
+              </li>
+            </ol>
+          </section>
+
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2021"
+          >
+            <h2 id="pub-year-2021">2021</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  HERD: Health Environments Research &amp; Design Journal ·
+                  14(3), 274–287
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1177/1937586721992799"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Small Garden, Big Impact: Emotional and Behavioral
+                    Responses of Visitors to a Rooftop Atrium in a Major
+                    Hospital<span aria-hidden="true">↗</span></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Kelly Martin; <strong>Luana Nanu</strong>; Wi-Suk Kwon; David
+                  S. Martin
+                </p>
+              </li>
+            </ol>
+          </section>
+
+          <section
+            class="publication-year-group"
+            aria-labelledby="pub-year-2020"
+          >
+            <h2 id="pub-year-2020">2020</h2>
+            <ol class="publication-list">
+              <li>
+                <p class="publication-journal">
+                  Journal of Hospitality Financial Management · 28(2), article 3
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.7275/0tft-v911"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Impact of Employee Meals on Employee Satisfaction and Hotel
+                    Financial Performance: An Experimental Study<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Cihan Çobanoğlu; Ibrahim Hakan
+                  Yilmaz; Timucin Dis
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  Cornell Hospitality Quarterly · 62(1), 105–120
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1177/1938965520943094"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Response Rates in Hospitality Research: An Overview of
+                    Current Practice and Suggestions for Future Research<span
+                      aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  Faizan Ali; Olena Ciftci; <strong>Luana Nanu</strong>; Cihan
+                  Çobanoğlu; Kisang Ryu
+                </p>
+              </li>
+              <li>
+                <p class="publication-journal">
+                  International Journal of Hospitality Management · 89, 102530
+                </p>
+                <h3>
+                  <a
+                    href="https://doi.org/10.1016/j.ijhm.2020.102530"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >The effect of hotel lobby design on booking intentions: An
+                    intergenerational examination<span aria-hidden="true"
+                      >↗</span
+                    ></a
+                  >
+                </h3>
+                <p class="publication-authors">
+                  <strong>Luana Nanu</strong>; Faizan Ali; Katerina Berezina;
+                  Cihan Çobanoğlu
+                </p>
+              </li>
+            </ol>
+          </section>
+        </div>
+
+        <div class="publication-secondary">
+          <section aria-labelledby="books-cases-title">
+            <p class="eyebrow">Books, chapters &amp; teaching cases</p>
+            <h2 id="books-cases-title">
+              Books, chapters &amp; teaching cases.
+            </h2>
+            <ul class="compact-publications">
+              <li>
+                <span>2024 · Book</span>
+                <a
+                  href="https://he.kendallhunt.com/product/tourism-concepts-and-practices"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Tourism: Concepts and Practices, 3rd ed.
+                  <span aria-hidden="true">↗</span></a
+                >
+                <p>
+                  John R. Walker; Christopher John M. Walker;
+                  <strong>Luana Nanu</strong> · Kendall Hunt
+                </p>
+              </li>
+              <li>
+                <span>2024 · Instructor’s manual</span>
+                <p class="compact-title">
+                  Online Instructor’s Manual to Accompany Introduction to
+                  Hospitality, 9th ed.
+                </p>
+                <p>John R. Walker; <strong>Luana Nanu</strong> · Pearson</p>
+              </li>
+              <li>
+                <span>2022 · Book chapter</span>
+                <a
+                  href="https://doi.org/10.1108/978-1-80117-546-320221006"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Embedded Questions in Online Survey Email Invitations: The
+                  Impact on Response Rate and Quality
+                  <span aria-hidden="true">↗</span></a
+                >
+                <p>
+                  Cihan Çobanoğlu; <strong>Luana Nanu</strong>; Olena Ciftci;
+                  Katerina Berezina; Muhittin Çavuşoğlu; Faizan Ali ·
+                  Contemporary Research Methods in Hospitality and Tourism,
+                  77–94
+                </p>
+              </li>
+              <li>
+                <span>2022 · Teaching case</span>
+                <a
+                  href="https://doi.org/10.1177/216499872201000405"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Outsourcing Hotel Kitchen Labor During Turbulent Times
+                  <span aria-hidden="true">↗</span></a
+                >
+                <p>
+                  <strong>Luana Nanu</strong>; Tianjian Liu; Alexandra Howard
+                </p>
+              </li>
+              <li>
+                <span>2020 · Book chapter</span>
+                <p class="compact-title">
+                  Consumer Behavior, Internet, and Emerging Technologies
+                </p>
+                <p>
+                  Cihan Çobanoğlu; <strong>Luana Nanu</strong>; Faizan Ali ·
+                  Advances in Hospitality and Tourism Information Technology
+                </p>
+              </li>
+              <li>
+                <span>2020 · Teaching case</span>
+                <a
+                  href="https://doi.org/10.1177/216499872000800310"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Look Before You Leap: The Case of the Missing Elevator Floor
+                  <span aria-hidden="true">↗</span></a
+                >
+                <p>
+                  Keith Barron; <strong>Luana Nanu</strong>; Cihan Çobanoğlu
+                </p>
+              </li>
+              <li>
+                <span>2018 · Book chapter</span>
+                <p class="compact-title">AirAsia and AirAsia X: A Case Study</p>
+                <p>
+                  <strong>Luana Nanu</strong>; Michael Russen; Frederick DeMicco
+                  · Strategic Management for Hospitality &amp; Travel
+                </p>
+              </li>
+            </ul>
+          </section>
+
+          <section aria-labelledby="reports-title">
+            <p class="eyebrow">Reports &amp; public scholarship</p>
+            <h2 id="reports-title">Reports &amp; public scholarship.</h2>
+            <ul class="compact-publications">
+              <li>
+                <span>2021 · Report</span>
+                <a
+                  href="https://doi.org/10.5038/m3-htir.004"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >U.S. Faculty Salary &amp; Satisfaction Report
+                  <span aria-hidden="true">↗</span></a
+                >
+                <p>
+                  Cihan Çobanoğlu; Khuraman Shahtakhtinskaya;
+                  <strong>Luana Nanu</strong>; Faizan Ali; Trishna G. Mistry;
+                  Anudari Munkhtuya
+                </p>
+              </li>
+              <li>
+                <span>2021 · Public scholarship</span>
+                <a
+                  href="https://doi.org/10.64628/AAI.5S4EU53UX"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Yes, customers do like it when waiters and hairdressers wear
+                  a mask—especially if it’s black
+                  <span aria-hidden="true">↗</span></a
+                >
+                <p>
+                  Cihan Çobanoğlu; Faizan Ali; <strong>Luana Nanu</strong>;
+                  Khuraman Shahtakhtinskaya
+                </p>
+              </li>
+            </ul>
+          </section>
+        </div>
+      </section>

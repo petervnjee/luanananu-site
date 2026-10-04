@@ -1,0 +1,39 @@
+{
+  "@type": "Person",
+  "name": "Luana Nanu",
+  "honorificSuffix": "Ph.D.",
+  "jobTitle": "Assistant Professor",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of South Florida"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Auburn University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of South Florida Sarasota-Manatee"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Antalya International University"
+    }
+  ],
+  "knowsAbout": [
+    "Consumer behavior",
+    "Education and program design",
+    "Hospitality",
+    "Environments and atmosphere",
+    "Technology and AI",
+    "Media and storytelling",
+    "Biophilic design"
+  ],
+  "sameAs": [
+    "https://www.usf.edu/business/about/bios/nanu-luana.aspx",
+    "https://scholar.google.com/citations?user=Jz0kZsIAAAAJ&hl=en",
+    "https://orcid.org/0000-0002-6157-330X",
+    "https://www.linkedin.com/in/luanananu/"
+  ]
+}

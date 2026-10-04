@@ -1,0 +1,51 @@
+{
+  "/": {
+    "view": "index",
+    "label": "Home",
+    "title": "Luana Nanu, Ph.D. | Consumer Behavior Research & Education",
+    "description": "Luana Nanu studies how people perceive, feel, and make decisions in service experiences, and designs research based courses and learning programs. Explore her research, teaching, and consultation.",
+    "type": "WebPage"
+  },
+  "/research": {
+    "view": "research",
+    "label": "Research",
+    "title": "Consumer Behavior Research | Luana Nanu, Ph.D.",
+    "description": "Explore Luana Nanu’s consumer behavior research in service settings: environments and atmosphere, technology and AI, media and storytelling, and consumer decisions.",
+    "type": "WebPage"
+  },
+  "/publications": {
+    "view": "publications",
+    "label": "Publications",
+    "title": "Research Publications | Luana Nanu, Ph.D.",
+    "description": "Journal articles, books, chapters, teaching cases, and public scholarship by Luana Nanu and collaborators.",
+    "type": "CollectionPage"
+  },
+  "/education": {
+    "view": "education",
+    "label": "Education",
+    "title": "Education & Program Design | Luana Nanu, Ph.D.",
+    "description": "Luana Nanu designs university courses and professional learning programs, from needs assessment and curriculum design to content creation, delivery, and evaluation.",
+    "type": "WebPage"
+  },
+  "/about": {
+    "view": "about",
+    "label": "About",
+    "title": "About Luana Nanu | Consumer Behavior Researcher",
+    "description": "Meet Luana Nanu, a consumer behavior researcher and educator at the University of South Florida. Explore her background, research, teaching, and program development.",
+    "type": "ProfilePage"
+  },
+  "/consultation": {
+    "view": "consultation",
+    "label": "Consultation",
+    "title": "Research & Learning Consultation | Luana Nanu, Ph.D.",
+    "description": "Research and learning for better decisions: learning program design, consumer behavior research, environment and experience studies, and technology and AI evaluation.",
+    "type": "WebPage"
+  },
+  "/contact": {
+    "view": "contact",
+    "label": "Contact",
+    "title": "Contact Luana Nanu | Research & Education",
+    "description": "Connect with Luana Nanu for consumer behavior research, academic collaboration, learning program design, professional workshops, and research consultation.",
+    "type": "ContactPage"
+  }
+}
