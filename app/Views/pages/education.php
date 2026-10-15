@@ -93,10 +93,11 @@
             </article>
             <article>
               <p class="eyebrow">Undergraduate education</p>
-              <h3>Tea &amp; coffee, built from scratch</h3>
+              <h3>Lodging management</h3>
               <p>
-                Building an undergraduate tea and coffee course from the ground
-                up, connecting subject knowledge with hospitality practice.
+                An undergraduate lodging management course at the University of
+                South Florida in Tampa, connecting subject knowledge with
+                hospitality practice.
               </p>
             </article>
             <article>
