@@ -1,7 +1,10 @@
 <footer class="site-footer">
   <div class="container footer-inner">
     <div class="footer-identity">
-      <a class="wordmark" href="/">Luana Nanu<span>Ph.D.</span></a>
+      <a class="footer-brand" href="/" aria-label="Luana Nanu, Ph.D., home">
+        <img src="<?= asset('assets/luana-nanu-icon.svg') ?>" width="56" height="56" alt="" aria-hidden="true" loading="lazy">
+        <span class="wordmark">Luana Nanu<span>Ph.D.</span></span>
+      </a>
       <p>Consumer behavior research &amp; education</p>
       <p class="footer-note">Understanding people.<br>Connecting research and practice.</p>
     </div>

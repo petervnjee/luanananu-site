@@ -30,6 +30,8 @@
   <meta name="robots" content="noindex, follow">
 <?php endif ?>
   <link rel="icon" href="<?= asset('assets/favicon.svg') ?>" type="image/svg+xml">
+  <link rel="icon" href="<?= asset('assets/favicon-32.png') ?>" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="<?= asset('assets/favicon-180.png') ?>" sizes="180x180">
   <link rel="preload" href="<?= asset('assets/dm-sans.woff2') ?>" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="<?= asset('assets/libre-caslon-display.woff2') ?>" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="<?= asset('assets/site.css') ?>">
