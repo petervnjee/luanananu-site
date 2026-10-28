@@ -29,7 +29,7 @@
         </div>
         <div class="themes research-themes">
           <article id="environments">
-            <p class="theme-label">01</p>
+            <p class="theme-label">1</p>
             <h3>Environments &amp; atmosphere</h3>
             <p>
               Design, sound, sensory cues, and biophilic elements in service
@@ -38,7 +38,7 @@
             <p class="theme-question">How does a setting shape experience?</p>
           </article>
           <article id="technology">
-            <p class="theme-label">02</p>
+            <p class="theme-label">2</p>
             <h3>Technology &amp; AI</h3>
             <p>
               Guest acceptance of AI, voice assistants, robots, and digital
@@ -47,7 +47,7 @@
             <p class="theme-question">When does technology help?</p>
           </article>
           <article id="media">
-            <p class="theme-label">03</p>
+            <p class="theme-label">3</p>
             <h3>Media, persuasion &amp; storytelling</h3>
             <p>
               Social media content, AI influencers, video, menus, and how
@@ -57,7 +57,7 @@
           </article>
           <article id="decisions">
             <span id="experience" class="anchor-alias"></span>
-            <p class="theme-label">04</p>
+            <p class="theme-label">4</p>
             <h3>Decisions &amp; behavior</h3>
             <p>
               Booking choices, willingness to pay, tipping, and what makes

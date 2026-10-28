@@ -1,5 +1,5 @@
 {
-  "source_commit": "91c15e71aa75aa72db1329ecac21d7618717808f",
+  "source_commit": "10ab34b8846efaf52548c2a6289941dbf1b148c3",
   "files": {
     "app/.htaccess": "fa28d421a28ed9b6f4b997d5119c2b8adbacff6e2dd119a179b71230f9664934",
     "app/Controllers/PageController.php": "467cb3fc421143a59c3da86e6a4877035a4e823d7be2bf886ef2fbd5f4229375",
@@ -12,13 +12,13 @@
     "app/Views/pages/contact.php": "651a56400fec842547259ef0ca0dd4691b86277bb5d164a1f7e31536028f5bae",
     "app/Views/pages/education.php": "37f7e79b8815e3083e2c00ace639086a4a0c2e1a99d7ebe410f4f5cadf98a756",
     "app/Views/pages/error.php": "da2874fa716dd73b3c14740ef812df3b5e5a65e8b674c323b413cb5a5c0ef09b",
-    "app/Views/pages/index.php": "5e0e1208d2fd2ef6c4ca319a1a686519e6771611932cf926630765f23ae6d8ad",
+    "app/Views/pages/index.php": "5dcf2daaf0d906dff7b369937db6cd4f594d717e03045229aa76ed7137f6923b",
     "app/Views/pages/publications.php": "a3f30957811557b64a032189f2f733f76d30fe343a0ca08d1f0cc6b9f3799a4a",
-    "app/Views/pages/research.php": "df20dfa3a24983876568f252bc90728017d85c4d8ef689df964107ae5366f1bf",
+    "app/Views/pages/research.php": "91507be027e5bc35bc3aeffbb963a2247544f53affe19da4be927518ccc5ff90",
     "app/Views/partials/footer.php": "819e950d4d9cf27aa85241347fb5ec25961073a04711b7560f91df37c534ba41",
     "app/Views/partials/header.php": "2dd93e300a367cbefc1953cc2d4772fd244383d6a4de346c12b7bada8efbe099",
     "app/bootstrap.php": "837289ecdb61f4e4643c019d83dc6bd180e386ae00f42b9d4604138edc80524f",
-    "app/data/assets.php": "4aec6cd977fa538787cbdc8588053a15de568e4ea4fab9efd385b79982dea3ae",
+    "app/data/assets.php": "fee50486f65796325eb78c647aaafc4fc05f1fe59f034b7eefc4fe49088ae3ca",
     "app/data/pages.json": "82362ba25241f2ff94e8e6f4137d6888bb25a7570b91a5298a72f3026bcb0960",
     "app/data/person.json": "954fcbf776d33a4b7d4799cfea3305dac05b996a4379cdb8fe659c15d6df69c0",
     "public/.htaccess": "73f610edf747bb8aecdcdc9868d29bd272b07c1c4e7a7c3ade50b5c3b9cb96a7",
@@ -50,7 +50,7 @@
     "public/assets/research-workforce-480.587382a2ddb3.webp": "587382a2ddb37d5bfce9f8379fa9af27015067f33d2ad692df8248e4b07e8e6e",
     "public/assets/research-workforce-800.85f67b5d8980.webp": "85f67b5d8980894051500f07576f2b679e3f53bcce96d654374bd85248228f87",
     "public/assets/research-workforce.f4ceed443dff.webp": "f4ceed443dff924942df5b25c744687a36b7c58752a4e5e7d459da951f6707ae",
-    "public/assets/site.2117a6434645.css": "2117a643464540a34cd6b403981b67fbcfa4c04bc3c07fa87804783b1ad7cff3",
+    "public/assets/site.0877089e22e7.css": "0877089e22e7d06abb1d42b818f5ab708b1f7fb5efbd6a453009a89f82a10e00",
     "public/index.php": "c4fb12a688cff1222503b2d714756ea8ff1e0e86a079d083676a39db32a626c8"
   }
 }
