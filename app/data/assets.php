@@ -29,5 +29,5 @@ return [
     'assets/research-workforce-480.webp' => 'assets/research-workforce-480.587382a2ddb3.webp',
     'assets/research-workforce-800.webp' => 'assets/research-workforce-800.85f67b5d8980.webp',
     'assets/research-workforce.webp' => 'assets/research-workforce.f4ceed443dff.webp',
-    'assets/site.css' => 'assets/site.0877089e22e7.css',
+    'assets/site.css' => 'assets/site.9e982a00f74c.css',
 ];

@@ -71,7 +71,7 @@
         </div>
         <div class="themes research-themes">
           <article id="environments">
-            <p class="theme-label">1</p>
+            <p class="theme-label">1.</p>
             <h3>
               <a href="/research#environments"
                 >Environments &amp; atmosphere</a
@@ -83,7 +83,7 @@
             </p>
           </article>
           <article id="technology">
-            <p class="theme-label">2</p>
+            <p class="theme-label">2.</p>
             <h3><a href="/research#technology">Technology &amp; AI</a></h3>
             <p>
               Guest acceptance of AI, voice assistants, robots, and digital
@@ -91,7 +91,7 @@
             </p>
           </article>
           <article id="media">
-            <p class="theme-label">3</p>
+            <p class="theme-label">3.</p>
             <h3>
               <a href="/research#media"
                 >Media, persuasion &amp; storytelling</a
@@ -103,7 +103,7 @@
             </p>
           </article>
           <article id="decisions">
-            <p class="theme-label">4</p>
+            <p class="theme-label">4.</p>
             <h3>
               <a href="/research#decisions">Decisions &amp; behavior</a>
             </h3>

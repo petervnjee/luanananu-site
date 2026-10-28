@@ -1260,7 +1260,7 @@ details .service-note {
   padding: 30px 0;
 }
 .process-list li:before {
-  content: counter(steps);
+  content: counter(steps) ".";
   font-family: var(--serif);
   font-size: 2.4rem;
   line-height: 1.1;
